@@ -1,4 +1,7 @@
 # Projekt_STD
- 	Sebastian Jędrzejczak
- 	Mateusz Nowocin
+ 	
+	Sebastian Jędrzejczak
+ 	
+	Mateusz Nowocin
+	
 	Piotr Zaklika
